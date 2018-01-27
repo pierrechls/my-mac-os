@@ -26,33 +26,53 @@
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/pierrechls/dotfiles).
 
-#### [Alfred](https://www.alfredapp.com/)
-
-#### [iTerm](https://www.iterm2.com/)
-
-#### [Dash](https://kapeli.com/dash)
-
-#### [SnippetsLab](https://www.renfei.org/snippets-lab/)
-
-#### [Airmail](http://airmailapp.com/)
-
-#### [Spotify](https://www.spotify.com/us/)
-
-#### [Transmit](https://www.panic.com/transmit/)
-
-#### [Sketch](https://www.sketchapp.com/)
-
-#### [MacDown](https://macdown.uranusjr.com/)
-
-#### [Dr Cleaner](https://www.drcleaner.com/dr-cleaner/)
-
-#### [Gemini](http://macpaw.com/gemini)
+| Application | Category | Description | Price |
+| ------ | ----------- | ----------- | ----------- |
+| [Alfred](https://www.alfredapp.com/) | Productivity |
+| [Airmail](http://airmailapp.com/) | Productivity |
+| [Todoist](https://todoist.com/) | Productivity |
+| [Instashare](http://instashareapp.com/) | Productivity |
+| [MacDown](https://macdown.uranusjr.com/) | Productivity |
+| [Archimedes](https://itunes.apple.com/us/app/archimedes/id806601044?mt=12) | Productivity |
+| [Microsoft Office](https://products.office.com/) | Productivity |
+| [Buttercup](https://buttercup.pw/) | Productivity |
+| [Dr Cleaner](https://www.drcleaner.com/dr-cleaner/) | Utility |
+| [Gemini](http://macpaw.com/gemini) | Utility |
+| [iTerm](https://www.iterm2.com/) | Development |
+| [Transmit](https://www.panic.com/transmit/) | Development |
+| [FortiClient](https://www.forticlient.com/) | Development |
+| [Sequel Pro](http://www.sequelpro.com/) | Development |
+| [MAMP](https://www.mamp.info/en/mamp-pro/) | Development |
+| [SwitchHosts](https://github.com/oldj/SwitchHosts) | Development |
+| [Atom](https://atom.io/) | Development |
+| [Sublime Text](https://www.sublimetext.com/) | Development |
+| [Coda](https://panic.com/coda/) | Development |
+| [Brackets](http://brackets.io/) | Development |
+| [Processing](https://processing.org/) | Development |
+| [Postman](https://www.getpostman.com/) | Development |
+| [Fork](https://git-fork.com/) | Development |
+| [Ghostlab](https://www.vanamco.com/ghostlab/) | Development |
+| [Docker](https://docs.docker.com/docker-for-mac/) | Development |
+| [Local by Flywheel](https://local.getflywheel.com/) | Development |
+| [Cakebrew](https://www.cakebrew.com/) | Development |
+| [SnippetsLab](https://www.renfei.org/snippets-lab/) | Development |
+| [Dash](https://kapeli.com/dash) | Development |
+| [Sketch](https://www.sketchapp.com/) | Design |
+| [Photoshop](https://www.adobe.com/fr/products/photoshop.html) | Design |
+| [Illustrator](https://www.adobe.com/fr/products/illustrator.html) | Design |
+| [Marvel](https://marvelapp.com/) | Prototyping |
+| [Framer](https://framer.com/) | Prototyping |
+| [Origami Studio](https://origami.design/) | Prototyping |
+| [Spotify](https://www.spotify.com/us/) | Music |
+| [Final Cut](https://www.apple.com/fr/final-cut-pro/) | Video |
+| [Adobe Premiere](https://www.adobe.com/fr/products/premiere.html) | Video |
+| [Adobe After Effects](https://www.adobe.com/fr/products/aftereffects.html) | Video |
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 
-#### [Slack](https://slack.com)
-
 #### [ImageOptim](https://imageoptim.com/mac)
+
+Quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog.
 
 ## Browser
 
