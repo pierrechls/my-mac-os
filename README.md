@@ -1,6 +1,9 @@
 # My macOS
 
-![preview](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/preview.png)
+:soon: Screenshot
+
+<!--
+![preview](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/preview.png)-->
 
 💻 A list of applications and various tools that make my macOS experience even more **amazing**.
 
