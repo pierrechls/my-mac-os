@@ -47,6 +47,7 @@
 | [MAMP](https://www.mamp.info/en/mamp-pro/) | Development |
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Development |
 | [Atom](https://atom.io/) | Development |
+| [Visual Studio Code](https://code.visualstudio.com/) | Development |
 | [Sublime Text](https://www.sublimetext.com/) | Development |
 | [Coda](https://panic.com/coda/) | Development |
 | [Brackets](http://brackets.io/) | Development |
