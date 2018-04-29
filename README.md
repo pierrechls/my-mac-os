@@ -24,8 +24,6 @@
 
 ## Applications
 
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/pierrechls/dotfiles).
-
 | Application | Category | Description | Price |
 | ------ | ----------- | ----------- | ----------- |
 | [Alfred](https://www.alfredapp.com/) | Productivity |
@@ -37,6 +35,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 | [Microsoft Office](https://products.office.com/) | Productivity |
 | [Buttercup](https://buttercup.pw/) | Productivity |
 | [Dr Cleaner](https://www.drcleaner.com/dr-cleaner/) | Utility |
+| [OnyX](https://www.titanium-software.fr/fr/onyx.html) | Utility |
 | [Gemini](http://macpaw.com/gemini) | Utility |
 | [iTerm](https://www.iterm2.com/) | Development |
 | [Transmit](https://www.panic.com/transmit/) | Development |
@@ -67,12 +66,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 | [Final Cut](https://www.apple.com/fr/final-cut-pro/) | Video |
 | [Adobe Premiere](https://www.adobe.com/fr/products/premiere.html) | Video |
 | [Adobe After Effects](https://www.adobe.com/fr/products/aftereffects.html) | Video |
-
-#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-
-#### [ImageOptim](https://imageoptim.com/mac)
-
-Quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog.
+| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | Utility |
+| [ImageOptim](https://imageoptim.com/mac) | Utility |
 
 ## Browser
 
