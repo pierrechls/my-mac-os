@@ -13,11 +13,9 @@
 - [Related](#related)
 - [Contribute](#raised_hands-contribute)
 
-## Desktop screenshots
+## Screenshots
 
-:construction: WIP
-
-## Launchpad
+![desktop-screenshot](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/desktop-screenshot.png)
 
 ![launchpad-screenshot](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/launchpad-screenshot.png)
 
