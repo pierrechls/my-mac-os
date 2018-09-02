@@ -101,10 +101,13 @@
 
 | Application | Category |
 | ------ | ----------- |
+| [brew](https://brew.sh/) | Development |
+| [mas](https://github.com/mas-cli/mas) | Development |
+| [mac](https://github.com/guarinogabriel/Mac-CLI) | Development |
 | [emogit](https://github.com/pierrechls/emogit-cli) | Development |
 | [tig](https://github.com/jonas/tig) | Development |
 | [gitflow](https://github.com/nvie/gitflow) | Development |
-| [brew](https://brew.sh/) | Development |
+| [wifi-password](https://github.com/rauchg/wifi-password) | Development |
 
 ## Related
 
