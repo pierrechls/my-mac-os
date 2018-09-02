@@ -37,9 +37,13 @@
 | [Buttercup](https://buttercup.pw/) | Productivity |
 | [Dr Cleaner](https://www.drcleaner.com/dr-cleaner/) | Utility |
 | [OnyX](https://www.titanium-software.fr/fr/onyx.html) | Utility |
+| [Etcher](https://etcher.io/) | Utility |
 | [Gemini](http://macpaw.com/gemini) | Utility |
 | [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | Utility |
+| [Quicker Picker](https://itunes.apple.com/fr/app/quicker-picker/id1029214192?mt=12) | Utility |
+| [HandBrake](https://handbrake.fr/) | Utility |
 | [ImageOptim](https://imageoptim.com/mac) | Utility |
+| [Adapter](https://macroplant.com/adapter) | Utility |
 | [iTerm](https://www.iterm2.com/) | Development |
 | [Transmit](https://www.panic.com/transmit/) | Development |
 | [FortiClient](https://www.forticlient.com/) | Development |
@@ -70,6 +74,7 @@
 | [Final Cut](https://www.apple.com/fr/final-cut-pro/) | Video |
 | [Adobe Premiere](https://www.adobe.com/fr/products/premiere.html) | Video |
 | [Adobe After Effects](https://www.adobe.com/fr/products/aftereffects.html) | Video |
+| [VLC](https://www.videolan.org/vlc/index.fr.html) | Video |
 
 ## Browser
 
@@ -105,6 +110,7 @@
 | [emogit](https://github.com/pierrechls/emogit-cli) | Development |
 | [tig](https://github.com/jonas/tig) | Development |
 | [gitflow](https://github.com/nvie/gitflow) | Development |
+| [brew](https://brew.sh/) | Development |
 
 ## Related
 
