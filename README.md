@@ -27,19 +27,19 @@
 
 ## Applications
 
-| Application | Category | Description | Price |
-| ------ | ----------- | ----------- | ----------- |
+| Application | Category |
+| ------ | ----------- |
 | [Alfred](https://www.alfredapp.com/) | Productivity |
 | [Airmail](http://airmailapp.com/) | Productivity |
 | [Todoist](https://todoist.com/) | Productivity |
 | [Instashare](http://instashareapp.com/) | Productivity |
 | [MacDown](https://macdown.uranusjr.com/) | Productivity |
-| [Archimedes](https://itunes.apple.com/us/app/archimedes/id806601044?mt=12) | Productivity |
-| [Microsoft Office](https://products.office.com/) | Productivity |
 | [Buttercup](https://buttercup.pw/) | Productivity |
 | [Dr Cleaner](https://www.drcleaner.com/dr-cleaner/) | Utility |
 | [OnyX](https://www.titanium-software.fr/fr/onyx.html) | Utility |
 | [Gemini](http://macpaw.com/gemini) | Utility |
+| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | Utility |
+| [ImageOptim](https://imageoptim.com/mac) | Utility |
 | [iTerm](https://www.iterm2.com/) | Development |
 | [Transmit](https://www.panic.com/transmit/) | Development |
 | [FortiClient](https://www.forticlient.com/) | Development |
@@ -70,8 +70,6 @@
 | [Final Cut](https://www.apple.com/fr/final-cut-pro/) | Video |
 | [Adobe Premiere](https://www.adobe.com/fr/products/premiere.html) | Video |
 | [Adobe After Effects](https://www.adobe.com/fr/products/aftereffects.html) | Video |
-| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | Utility |
-| [ImageOptim](https://imageoptim.com/mac) | Utility |
 
 ## Browser
 
