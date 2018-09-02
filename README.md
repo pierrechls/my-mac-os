@@ -11,7 +11,7 @@
 - [Browser](#browser)
 - [Command Line Apps](#command-line-apps)
 - [Related](#related)
-- [Contribute](#contributing)
+- [Contribute](#raised_hands-contribute)
 
 ## Desktop screenshots
 
