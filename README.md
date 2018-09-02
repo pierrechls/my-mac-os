@@ -1,7 +1,5 @@
 # My macOS
 
-:soon: Screenshot
-
 <!--
 ![preview](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/preview.png)-->
 
@@ -9,8 +7,6 @@
 
 ## Contents
 
-- [Desktop screenshots](#desktop-screenshots)
-- [Launchpad](#launchpad)
 - [Applications](#applications)
 - [Browser](#browser)
 - [Command Line Apps](#command-line-apps)
@@ -23,7 +19,7 @@
 
 ## Launchpad
 
-:construction: WIP
+![launchpad-screenshot](https://raw.githubusercontent.com/pierrechls/my-mac-os/master/assets/launchpad-screenshot.png)
 
 ## Applications
 
